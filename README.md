@@ -12,7 +12,7 @@ clone the repo down then run npm i to install inquirer
 
 
 ## demo
-![gif demo](./screenshots/demo.gif)
+![gif demo](./screenshot/demo.gif)
 
 ## Acknowledgments
 
