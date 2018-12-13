@@ -4,7 +4,7 @@ var Word = require("./word");
 
 
 //array of words to guess from
-var words = ["turtle", "dolphins", "whales", "tuna", "octopus", "squid", "tuna", " corral", "kelp", "lobster"];
+var words = ["turtle", "dolphins", "whales", "tuna", "octopus", "squid", "tuna", "corral", "kelp", "lobster"];
 // variable to hold current word to guess as an object
 var currentWord;
 // to hold and array of letters guessed on current word
